@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://artur-markouski.github.io/rsschool-cv/cv
