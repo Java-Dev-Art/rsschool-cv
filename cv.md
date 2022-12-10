@@ -1,4 +1,4 @@
-# ** Artur Markouski **
+# **Artur Markouski**
 >## Education
 
 ### Belarusian State Agrcultural Academy
