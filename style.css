@@ -1,3 +1,11 @@
 .rs {
     color: aqua;
 }
+.footer_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.fc_info {
+    border: 1px dashed black;
+}
